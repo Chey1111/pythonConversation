@@ -20,6 +20,7 @@ while conversation < 2:
   print("You chose to "+(action)+".")
   if action == "listen":
     print("You hear the man sitting on the ground say, 'Hi Steve, how are you?'")
+    print("'Man, these Breaking Benjamins guys are really good.'")
 
   if action == "help":
     print("You can LISTEN.")
